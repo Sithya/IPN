@@ -9,6 +9,8 @@ public class App {
         System.out.println("yo");
         System.out.println("Suck seed");
         System.out.println("test merge");
+        System.out.println("Test ");
+        System.out.println("Hey yooo");
     }
 }
 
