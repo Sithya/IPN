@@ -1,4 +1,3 @@
-# Git publish to repository
+# Inventory management
 
--git init
--git remote add origin [repository_url]
+
