@@ -23,6 +23,7 @@ public class MainFrame extends JFrame {
         productNameField = new JTextField(20);
         productQuantityField = new JTextField(5);
         JButton addButton = new JButton("Add Product");
+        addButton.setBackground(Color.cyan);
         addButton.addActionListener(e -> addProduct());
         JButton deleteButton = new JButton("Delete Product");
         deleteButton.addActionListener(e -> deleteProduct());
